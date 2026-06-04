@@ -30,13 +30,6 @@ Frontend
 Backend / Languages
 <img src="https://skillicons.dev/icons?i=go,python" alt="languages" height="48"/>
 ---
-📊 GitHub Stats
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=2563eb&text_color=8b949e&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=7c3aed&text_color=8b949e&bg_color=0d1117" alt="top langs"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=7c3aed&ring=2563eb&fire=FF3E00&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="streak"/>
-</div>
----
 🌐 Find me
 <div align="center">
 <a href="https://discord.com/users/919159078234771466"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
