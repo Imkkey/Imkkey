@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amir+%F0%9F%91%8B;Designer+turning+into+a+Frontend+Dev;UI+with+character%2C+no+AI-slop" alt="typing banner" />
 <p>
   <b>Graphic & UI Designer</b> crossing over into <b>Frontend</b>.<br>
-  3 years in design (logos · banners · web UI) — now writing the code myself.
+  3 years in design (logos · banners · web UI).
 </p>
 <p>
   <img src="https://img.shields.io/badge/Based%20in-Alaska%2C%20USA-2563eb?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
@@ -39,8 +39,7 @@ Backend / Languages
 ---
 🌐 Find me
 <div align="center">
-<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/919159078234771466"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:a.e.qqbb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <sub>Open to remote work · UI/UX · Frontend</sub>
 </div>
