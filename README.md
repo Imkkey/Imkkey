@@ -24,7 +24,7 @@
 ---
 🧰 Tech Stack
 Design
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae" alt="design tools" height="48"/>
+<img src="https://skillicons.dev/icons?i=figma,ps" alt="design tools" height="48"/>
 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwind" alt="frontend" height="48"/>
 Backend / Languages
