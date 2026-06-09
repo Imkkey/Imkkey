@@ -18,9 +18,7 @@
 
 ### 🧩 Now
 
-- 🛠️ Building [**Vyre**](https://github.com/Imkkey/Vyre) — a lightweight Discord alternative on Tauri + Svelte
-- 🎮 [**neonlaunch**](https://github.com/Imkkey/neonlaunch) — Minecraft launcher where creators share modpacks via activation codes
-- 🚀 Leveling up **Svelte** and **Go**
+- 🗺️ Hacking on my [**CodeWalker**](https://github.com/Imkkey/CodeWalker) fork — GTA V world & asset editor (C#)
 
 ---
 
@@ -37,9 +35,6 @@
 **Backend / Languages**
 
 <img src="https://skillicons.dev/icons?i=go,python,cs,cpp,nodejs" alt="languages" height="48"/>
-
-> 🤖 **Claude** is in the toolbox too — in my hands, not on autopilot.
-
 ---
 
 ### 📊 Stats
