@@ -7,12 +7,23 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Based%20in-Anchorage%2C%20Alaska-2563eb?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
+  <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%A6%20Ukraine-%E2%86%92%20Anchorage%2C%20Alaska-2563eb?style=flat-square" alt="location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-7c3aed?style=flat-square" alt="open to work"/>
   <img src="https://img.shields.io/badge/Status-Learning%20to%20ship-16a34a?style=flat-square" alt="status"/>
 </p>
 
 </div>
+
+---
+
+### 👤 About me
+
+- 🇺🇦 Originally from **Ukraine**, now living in **Anchorage, Alaska**
+- 🎨 Started as a graphic designer — logos, banners, web UI — and fell in love with interfaces
+- 💻 Now learning frontend from scratch: writing everything by hand, no copy-paste, no templates
+- ✨ I care about UI with character — design that doesn't look like every other SaaS landing page
+- 🎮 Into games and modding: I build my own tools and tinker with game internals
+- 🌍 Open to remote work — UI/UX design and frontend
 
 ---
 
@@ -35,15 +46,6 @@
 **Backend / Languages**
 
 <img src="https://skillicons.dev/icons?i=go,python,cs,cpp,nodejs" alt="languages" height="48"/>
----
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imkkey&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=9CA3AF&bg_color=00000000" alt="github stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imkkey&layout=compact&hide_border=true&title_color=7C3AED&text_color=9CA3AF&bg_color=00000000" alt="top languages" height="160"/>
-</div>
-
 ---
 
 ### 🌐 Find me
