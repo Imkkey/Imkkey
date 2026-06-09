@@ -1,39 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amir+%F0%9F%91%8B;Designer+turning+into+a+Frontend+Dev;UI+with+character%2C+no+AI-slop" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Amir+%E2%80%94+Designer+%26+Frontend+Developer;Interfaces+with+character" alt="typing banner" />
 
 <p>
   <b>Graphic & UI Designer</b> crossing over into <b>Frontend</b>.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%A6%20Ukraine-%E2%86%92%20Anchorage%2C%20Alaska-2563eb?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/Ukraine-%E2%86%92%20Anchorage%2C%20Alaska-2563eb?style=flat-square" alt="location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-7c3aed?style=flat-square" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20to%20ship-16a34a?style=flat-square" alt="status"/>
 </p>
 
 </div>
 
 ---
 
-### 👤 About me
+### About me
 
-- 🇺🇦 Originally from **Ukraine**, now living in **Anchorage, Alaska**
-- 🎨 Started as a graphic designer — logos, banners, web UI — and fell in love with interfaces
-- 💻 Now learning frontend from scratch: writing everything by hand, no copy-paste, no templates
-- ✨ I care about UI with character — design that doesn't look like every other SaaS landing page
-- 🎮 Into games and modding: I build my own tools and tinker with game internals
-- 🌍 Open to remote work — UI/UX design and frontend
-
----
-
-### 🧩 Now
-
-- 🗺️ Hacking on my [**CodeWalker**](https://github.com/Imkkey/CodeWalker) fork — GTA V world & asset editor (C#)
+- Originally from **Ukraine**, currently based in **Anchorage, Alaska**
+- Started as a graphic designer — logos, banners, web UI — and moved toward building interfaces myself
+- Learning frontend from the ground up: writing everything by hand, no templates
+- I care about interfaces with their own identity, not another generic SaaS look
+- Interested in games and modding: I build my own tools and study game internals
+- Open to remote work — UI/UX design and frontend
 
 ---
 
-### 🧰 Tech Stack
+### Now
+
+- Working on my [**CodeWalker**](https://github.com/Imkkey/CodeWalker) fork — GTA V world & asset editor (C#)
+
+---
+
+### Tech Stack
 
 **Design**
 
@@ -46,9 +45,10 @@
 **Backend / Languages**
 
 <img src="https://skillicons.dev/icons?i=go,python,cs,cpp,nodejs" alt="languages" height="48"/>
+
 ---
 
-### 🌐 Find me
+### Contact
 
 <div align="center">
 
