@@ -1,38 +1,19 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                        ⚠️  REPLACE  ⚠️                         -->
-<!--  Swap every YOUR_USERNAME with your real GitHub handle.      -->
-<!--  Update the social links too (or delete the ones you skip). -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amir+%F0%9F%91%8B;Designer+turning+into+a+Frontend+Dev;UI+with+character%2C+no+AI-slop" alt="typing banner" />
-<p>
-  <b>Graphic & UI Designer</b> crossing over into <b>Frontend</b>.<br>
-  3 years in design (logos · banners · web UI).
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Based%20in-Alaska%2C%20USA-2563eb?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
-  <img src="https://img.shields.io/badge/Focus-UI%20Rehab-7c3aed?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20to%20ship-16a34a?style=flat-square" alt="status"/>
-</p>
-</div>
----
-🧩 What I do
-🎨 Design interfaces with their own identity — none of that template SaaS vibe
-🛠️ UI Rehab — my personal project about frontend quality & a recognizable style
-📝 Learning web dev from scratch: writing everything by hand, not copy-pasting
-🚀 Currently leveling up Svelte and Golang
----
-🧰 Tech Stack
-Design
-<img src="https://skillicons.dev/icons?i=figma,ps" alt="design tools" height="48"/>
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,svelte,tailwind" alt="frontend" height="48"/>
-Backend / Languages
-<img src="https://skillicons.dev/icons?i=go,python" alt="languages" height="48"/>
----
-🌐 Find me
-<div align="center">
-<a href="https://discord.com/users/919159078234771466"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:a.e.qqbb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<sub>Open to remote work · UI/UX · Frontend</sub>
-</div>
+# Hey, I'm Amir
+
+Designer turning into a frontend developer. Three years of design work — logos, banners, web UI — now learning to build it all myself, writing every line by hand.
+
+Based in Anchorage, Alaska. Open to remote work — UI/UX and frontend.
+
+### Now
+
+- Building [Vyre](https://github.com/Imkkey/Vyre) — a lightweight Discord alternative on Tauri + Svelte
+- [neonlaunch](https://github.com/Imkkey/neonlaunch) — Minecraft launcher where creators share modpacks via activation codes
+- Leveling up Svelte and Go
+
+### Tools
+
+Figma · Photoshop · HTML/CSS/JS · Svelte · Tailwind · Go · Python
+
+### Reach me
+
+[kkey.dev](https://kkey.dev) · [email](mailto:a.e.qqbb@gmail.com) · [Discord](https://discord.com/users/919159078234771466)
