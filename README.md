@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Amir+%E2%80%94+Designer+%26+Frontend+Developer;Interfaces+with+character" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Amir;Designer+learning+frontend" alt="typing banner" />
 
 <p>
-  <b>Graphic & UI Designer</b> crossing over into <b>Frontend</b>.
+  I design interfaces and I'm learning to build them myself.
 </p>
 
 <p>
@@ -17,18 +17,18 @@
 
 ### About me
 
-- Originally from **Ukraine**, currently based in **Anchorage, Alaska**
-- Started as a graphic designer — logos, banners, web UI — and moved toward building interfaces myself
-- Learning frontend from the ground up: writing everything by hand, no templates
-- I care about interfaces with their own identity, not another generic SaaS look
-- Interested in games and modding: I build my own tools and study game internals
-- Open to remote work — UI/UX design and frontend
+- From Ukraine, now living in Anchorage, Alaska
+- Spent a few years doing graphic design: logos, banners, web UI
+- Decided I want to build my designs myself, so I'm learning frontend and writing all the code by hand
+- I like interfaces that have their own face, generic templates bore me
+- I'm into games and modding, sometimes I write my own tools for it
+- Open to remote work in UI/UX and frontend
 
 ---
 
 ### Now
 
-- Working on my [**CodeWalker**](https://github.com/Imkkey/CodeWalker) fork — GTA V world & asset editor (C#)
+- Working on my [**CodeWalker**](https://github.com/Imkkey/CodeWalker) fork (GTA V world and asset editor, C#)
 
 ---
 
@@ -56,6 +56,6 @@
 <a href="https://discord.com/users/919159078234771466"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
 <a href="mailto:a.e.qqbb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
-<sub>Open to remote work · UI/UX · Frontend</sub>
+<sub>UI/UX and frontend, remote friendly</sub>
 
 </div>
