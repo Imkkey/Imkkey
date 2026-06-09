@@ -38,7 +38,7 @@
 
 <img src="https://skillicons.dev/icons?i=go,python,cs,cpp,nodejs" alt="languages" height="48"/>
 
-<sub>🤖 Claude is in the toolbox too — as a tool, not an autopilot. The thinking and the code are mine.</sub>
+> 🤖 **Claude** is in the toolbox too — in my hands, not on autopilot.
 
 ---
 
