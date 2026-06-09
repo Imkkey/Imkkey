@@ -14,6 +14,8 @@ Based in Anchorage, Alaska. Open to remote work — UI/UX and frontend.
 
 Figma · Photoshop · HTML/CSS/JS · Svelte · Tailwind · Go · Python
 
+Claude is in the toolbox too — as a tool, not an autopilot. The thinking and the code are mine.
+
 ### Reach me
 
 [kkey.dev](https://kkey.dev) · [email](mailto:a.e.qqbb@gmail.com) · [Discord](https://discord.com/users/919159078234771466)
