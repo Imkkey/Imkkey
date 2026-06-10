@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Ukraine-%E2%86%92%20Anchorage%2C%20Alaska-2563eb?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20Anchorage%2C%20Alaska-2563eb?style=flat-square" alt="location"/>
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-7c3aed?style=flat-square" alt="open to work"/>
 </p>
 
@@ -17,7 +17,6 @@
 
 ### About me
 
-- From Ukraine, now living in Anchorage, Alaska
 - Spent a few years doing graphic design: logos, banners, web UI
 - Decided I want to build my designs myself, so I'm learning frontend and writing all the code by hand
 - I like interfaces that have their own face, generic templates bore me
